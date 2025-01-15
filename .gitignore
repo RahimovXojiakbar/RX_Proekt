@@ -1,5 +1,11 @@
 env
 db.sqlite3
-main/__pycache__/**
+state/__pycache__/**
+region/__pycache__/**
+district/__pycache__/**
+MFY/__pycache__/**
+neighborhoood/__pycache__/**
+house/__pycache__/**
+human/__pycache__/**
 config/__pycache__/**
 media/

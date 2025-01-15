@@ -5,6 +5,7 @@ from rest_framework.pagination import PageNumberPagination
 from rest_framework.filters import SearchFilter
 from django_filters.rest_framework import DjangoFilterBackend
 
+
 class MyPagination(PageNumberPagination):
     page_size = 5
     page_size_query_param = 'page_size'
